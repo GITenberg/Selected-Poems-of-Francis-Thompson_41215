@@ -1,0 +1,37 @@
+_repo: Selected-Poems-of-Francis-Thompson_41215
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Meynell, Wilfrid
+    alias: Oldcastle, John
+    birthdate: 1852
+    deathdate: 1948
+    gutenberg_agent_id: '41040'
+    url: http://www.gutenberg.org/2009/agents/41040
+covers:
+- cover_type: archival
+  image_path: 41215-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Thompson, Francis
+    birthdate: 1859
+    deathdate: 1907
+    gutenberg_agent_id: '608'
+    url: http://www.gutenberg.org/2009/agents/608
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Thompson
+description: The hound on children - Poems on children - Sister songs - Love in Dian's
+  lap - Sight and insight - Ultima - A narrow vessel - Odes - Sonnets - Miscellaneous
+  poems.
+gutenberg_issued: '2012-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: Selected Poems of Francis Thompson
+url: http://www.gutenberg.org/ebooks/41215
